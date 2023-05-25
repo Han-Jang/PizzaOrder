@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" >Pizzaorder</string>
+    <string name="hello">Hello\nWelcome to Pizza App</string>
+    <string name="start_button">Start order</string>
+    <string name="size_name">Size</string>
+    <string name="topping_name">Topping</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="topping1">Pepperoni</string>
+    <string name="topping2">Mushroom</string>
+    <string name="topping3">Black olives</string>
+    <string name="topping4">Sausage</string>
+    <string name="topping5">Extra Cheese</string>
+    <string name="topping6">Onions</string>
+    <string name="topping_button">Next Step</string>
+    <string name="date_name">Date</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="time_name">Time</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="address_name">Address</string>
+    <string name="address_input">Enter The Address</string>
+    <string name="customer_name">Name</string>
+    <string name="name_input">Enter The Name</string>
+    <string-array name="Languages">
+        <item>Select Language</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Korean</item>
+    </string-array>
+</resources>
